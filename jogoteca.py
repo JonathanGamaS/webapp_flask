@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.route('/inicio')
 def ola():
-    return '<h1>Inicio projeto Flask</h1>'
+    return '<h1>Inicio projeto</h1>'
 
 app.run()
 
