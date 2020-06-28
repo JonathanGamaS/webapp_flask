@@ -1,0 +1,1 @@
+Projeto com CRUD simples para entender como o Flask funciona
